@@ -63,4 +63,4 @@ class debatevbot(commands.Cog):
 
 
 client.add_cog(debatevbot(client))
-client.run('Nzk2NDE0MzYyNzE2NzMzNDYw.X_XkrA.r4xOHzeV4Qr3x-xcEf_N12UQ2nY')
+client.run(TOKEN)
